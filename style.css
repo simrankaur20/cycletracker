@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    align-content: center;
+}
+h1{
+    
+    text-align: center;
+}
+h2{
+    color: blanchedalmond;
+}
+#head1{
+    text-align: center;
+    font-family: 'Cute Font', cursive;
+    font-size: 5em;
+}
+img{
+    align-content: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .header{
+      background-color: aquamarine;
+  }
+  .header:hover{
+      background-color:darkcyan;
+  }
